@@ -21,4 +21,4 @@ I obtained my PhD at [EPFL](https://www.epfl.ch/en/)🇨🇭 under the supervisi
 
 **Research interests:** I work in [responsible AI](), developing tools to make models more reliable, fair, safe and universally useful. I am also interested in the [science of deep learning](), with a focus on understanding how editions in the weights affect the behavior of AI systems.
 
-If you're not sure how to to pronounce my name you can watch this [video](https://www.youtube.com/watch?v=6dN7IJXsh6Q). Here's a quick tip: the double "ll" in Spanish sounds like a "y" and the "u" in "Gui" is silent. So altogether, it's "ghee-YAIR-moh."
+If you're not sure how to to pronounce my name you can watch this [video](https://www.youtube.com/watch?v=6dN7IJXsh6Q). Here's a quick tip: the double "ll" in Spanish sounds like a "y" and the "u" in "Gui" is silent.
